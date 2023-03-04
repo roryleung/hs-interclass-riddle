@@ -1,2 +1,2 @@
 # hs-interclass-
- PHP/JQuery-based Website for high school inter-class puzzle-solving competition 
+A PHP/jQuery-based website for high school inter-class puzzle-solving competition written 10 years ago 
